@@ -42,11 +42,5 @@ Certifications & training
 - Prompt Engineering
 - AI Automation with n8n
 - REST API Integration
-
-Review & publish
-1. I updated the `portfolio-starter` branch with a human-written site and README that positions the work as production-focused and GitHub-centric: https://github.com/Abdullah-Shah-G/my-portfolio/tree/portfolio-starter
-2. If you want this merged to your main site, reply with “Open PR” and I will create a Pull Request for review.
-3. To publish the site via GitHub Pages, reply with “Publish Pages” and I will add the necessary workflow and include it in the PR.
-
 Feedback & edits
 If you want different wording (tone, emphasis, or more detail for any project), paste the preferred text and I’ll update the branch. If you want me to add badges, screenshots, or live demo links to project cards, provide the assets or links and I’ll add them.
