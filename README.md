@@ -1,16 +1,52 @@
-# my-portfolio
+# Abdullah Shah — AI Engineer & GitHub Builder
 
-This branch (portfolio-starter) contains a starter single-page portfolio and your CV uploaded as assets/Abdullah_Shah_CV (1).pdf.
+Contact
+- Phone: +92 321 635 9895
+- Email: they123to@gmail.com
+- GitHub: https://github.com/Abdullah-Shah-G
+- LinkedIn: https://www.linkedin.com/in/abdullah-shah-01099b32a
 
-Files added/updated on portfolio-starter:
-- index.html (updated with extracted content from your CV and linked repositories)
-- styles.css (dark theme)
-- assets/Abdullah_Shah_CV (1).pdf (your uploaded CV)
+About
 
-Linked repositories (added to the Projects section):
-- FAQ Chatbot — https://github.com/Abdullah-Shah-G/faq-chatbot
-- Document Q&A (doc-qa) — https://github.com/Abdullah-Shah-G/doc-qa
-- Support Agent — https://github.com/Abdullah-Shah-G/support-agent
-- Prompt Tuner — https://github.com/Abdullah-Shah-G/prompt-tuner
+I build reliable, production-ready AI features that teams can ship and maintain. My work focuses on pragmatic engineering — designing agentic systems, retrieval-augmented pipelines, and automation that reduce manual work while preserving observability, safety, and developer ergonomics.
 
-Please review the portfolio-starter branch and confirm any edits. When you confirm, I can open a PR to merge these changes into your default branch and optionally add a GitHub Pages workflow to publish the site.
+What I do well
+- Turn prototypes into maintainable services — from data ingestion and embeddings to vector search and controlled generation.
+- Build agentic workflows that safely orchestrate tools, APIs, and human inputs.
+- Improve developer experience with reusable prompt libraries, evaluation harnesses, and stable CI/CD for model-backed features.
+
+Selected projects
+- FAQ Chatbot — semantic FAQ assistant with deterministic fallbacks and confidence-aware responses. https://github.com/Abdullah-Shah-G/faq-chatbot
+- Document Q&A (doc-qa) — RAG system for document search and citation-aware answers. https://github.com/Abdullah-Shah-G/doc-qa
+- Support Agent — conversational ticket collection with webhook integration patterns. https://github.com/Abdullah-Shah-G/support-agent
+- Prompt Tuner — A/B testing and automated scoring for prompt templates. https://github.com/Abdullah-Shah-G/prompt-tuner
+
+Experience
+
+**AI Engineer — Lightning IT Solution**
+- Multan, Pakistan — July 2025 – Present
+- Ship LLM-powered features, design RAG pipelines, and integrate AI into business workflows with an emphasis on reliability and security. Coach colleagues on prompt engineering and production guardrails.
+
+Skills & Tech
+- Languages: Python, TypeScript/JavaScript, SQL, Dart
+- AI / LLM: OpenAI API, GPT models, LangGraph, MCP, prompt engineering, RAG, embeddings
+- Data & infra: Pinecone, Chroma, PostgreSQL, Firebase Firestore, vector databases
+- Integrations: REST APIs, webhooks, n8n, Docker
+- Tools: Git, GitHub, VS Code, Postman, CI/CD
+
+Education
+- BSc, Software Engineering — NFC Institute of Engineering and Technology (NFC-IET), Multan — 2021–2025
+
+Certifications & training
+- Agentic AI Engineering (In Progress)
+- Prompt Engineering
+- AI Automation with n8n
+- REST API Integration
+
+Review & publish
+1. I updated the `portfolio-starter` branch with a human-written site and README that positions the work as production-focused and GitHub-centric: https://github.com/Abdullah-Shah-G/my-portfolio/tree/portfolio-starter
+2. If you want this merged to your main site, reply with “Open PR” and I will create a Pull Request for review.
+3. To publish the site via GitHub Pages, reply with “Publish Pages” and I will add the necessary workflow and include it in the PR.
+
+Feedback & edits
+If you want different wording (tone, emphasis, or more detail for any project), paste the preferred text and I’ll update the branch. If you want me to add badges, screenshots, or live demo links to project cards, provide the assets or links and I’ll add them.
