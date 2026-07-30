@@ -15,11 +15,23 @@ What I do well
 - Build agentic workflows that safely orchestrate tools, APIs, and human inputs.
 - Improve developer experience with reusable prompt libraries, evaluation harnesses, and stable CI/CD for model-backed features.
 
-Selected projects
-- FAQ Chatbot — semantic FAQ assistant with deterministic fallbacks and confidence-aware responses. https://github.com/Abdullah-Shah-G/faq-chatbot
-- Document Q&A (doc-qa) — RAG system for document search and citation-aware answers. https://github.com/Abdullah-Shah-G/doc-qa
-- Support Agent — conversational ticket collection with webhook integration patterns. https://github.com/Abdullah-Shah-G/support-agent
-- Prompt Tuner — A/B testing and automated scoring for prompt templates. https://github.com/Abdullah-Shah-G/prompt-tuner
+Selected projects (AI Portfolio — 8 projects built with FastAPI + LangChain + Google Gemini)
+
+**Conversation & Support**
+- [FAQ Chatbot](https://github.com/Abdullah-Shah-G/faq-chatbot) — Hybrid retrieval chatbot using rapidfuzz fuzzy matching + Gemini LLM for contextual FAQ answers. Includes full admin CRUD dashboard with inline editing.
+- [Support Agent](https://github.com/Abdullah-Shah-G/support-agent) — Multi-turn conversational ticket creator with AI-driven field extraction, confirmation workflow, and webhook integration for ticket creation.
+
+**Document Intelligence**
+- [Doc Q&A](https://github.com/Abdullah-Shah-G/doc-qa) — RAG (Retrieval-Augmented Generation) system for PDFs. Upload a document, get citation-backed answers with source + page references via FAISS vector search.
+- [ATS Scanner](https://github.com/Abdullah-Shah-G/ats-scanner) — Resume vs job description analyzer. Generates match score (animated SVG ring), skill gaps, experience/education fit, and actionable suggestions.
+
+**Code & Data**
+- [Code Review Agent](https://github.com/Abdullah-Shah-G/code-review-agent) — Multi-language code review with severity-coded issues, complexity analysis, security scanning, and AI auto-fix with diff visualization.
+- [Text-to-SQL](https://github.com/Abdullah-Shah-G/text-to-sql) — Natural language to SQL engine. Ask questions in English, get executed SQL queries with plain-English results against a live SQLite database.
+
+**AI Development Tools**
+- [Prompt Tuner](https://github.com/Abdullah-Shah-G/prompt-tuner) — Prompt engineering workbench with batch testing, LLM-based evaluation (5-axis rubric), heuristic fallback scoring, and version leaderboard.
+- [Research Agent](https://github.com/Abdullah-Shah-G/research-agent) — Multi-agent research assistant using LangGraph (3-node state graph: decompose → research → synthesize). Generates structured markdown reports with executive summaries.
 
 Experience
 
